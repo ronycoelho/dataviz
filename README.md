@@ -13,13 +13,13 @@ Páginas com gráficos para inspiração
 
 Temas
 
-- ({mdthemes})[https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/]
+- [{mdthemes}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/)
 
 
 Cores 
 
-- (paletteer_gallery)[https://github.com/PMassicotte/paletteer_gallery/blob/master/README.md]
+- [paletteer_gallery](https://github.com/PMassicotte/paletteer_gallery/blob/master/README.md)
 
-- (r-color-palettes)[https://github.com/EmilHvitfeldt/r-color-palettes]
+- [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)
 
-- (R color cheatsheet)[https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf]
+- [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
