@@ -25,3 +25,5 @@ Cores
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)
 
 - [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
+
+- [colorhexa](https://www.colorhexa.com/)
