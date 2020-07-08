@@ -10,12 +10,13 @@ Páginas com gráficos para inspiração
 
 - [ggplot extensions](https://exts.ggplot2.tidyverse.org/)
 
--[ggplot cheatsheet](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+- [ggplot cheatsheet](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
 Temas
 
 - [{mdthemes}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/)
 
+- [Components Themes GGplot](https://ggplot2.tidyverse.org/reference/theme.html)
 
 Cores 
 
