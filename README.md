@@ -4,6 +4,8 @@ Páginas com gráficos para inspiração
 
 - [R Graph Gallery](https://www.r-graph-gallery.com/index.html)
 
+- [From data to viz](https://www.data-to-viz.com/)
+
 - [Top 50 ggplot2 Visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
 - [BBC cookbook](https://bbc.github.io/rcookbook/)
