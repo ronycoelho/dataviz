@@ -10,11 +10,20 @@ Páginas com gráficos para inspiração
 
 - [BBC cookbook](https://bbc.github.io/rcookbook/)
 
+- [Cookbook for R Graphs](http://www.cookbook-r.com/Graphs/)
+
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+
 - [STHDA: Be Awesome in ggplot2](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization)
+
+- [List of Graphics People in Newsrooms](https://github.com/OpenNewsLabs/news-graphics-team)
 
 - [ggplot extensions](https://exts.ggplot2.tidyverse.org/)
 
 - [ggplot cheatsheet](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+
+- [Drawing Anything with ggplot2](https://github.com/thomasp85/ggplot2_workshop)
+
 
 Temas
 
