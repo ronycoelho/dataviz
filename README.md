@@ -24,12 +24,13 @@ Páginas com gráficos para inspiração
 
 - [Drawing Anything with ggplot2](https://github.com/thomasp85/ggplot2_workshop)
 
-
 Temas
 
 - [{mdthemes}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/)
 
 - [Components Themes GGplot](https://ggplot2.tidyverse.org/reference/theme.html)
+
+- [Legend guide](https://ggplot2.tidyverse.org/reference/guide_legend.html); [See also](https://ggplot2.tidyverse.org/reference/guides.html)
 
 Cores 
 
