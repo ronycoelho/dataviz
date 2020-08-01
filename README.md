@@ -22,6 +22,8 @@ Páginas com gráficos para inspiração
 
 - [ggplot cheatsheet](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
+- [ggplot references](https://ggplot2.tidyverse.org/reference/index.html)
+
 - [Drawing Anything with ggplot2](https://github.com/thomasp85/ggplot2_workshop)
 
 Temas
