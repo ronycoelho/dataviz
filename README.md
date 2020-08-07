@@ -16,6 +16,8 @@ Páginas com gráficos para inspiração
 
 - [STHDA: Be Awesome in ggplot2](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization)
 
+- [beautiful graphics ggplot2](https://rstudio-pubs-static.s3.amazonaws.com/228019_f0c39e05758a4a51b435b19dbd321c23.html#1_plot_one_variable_-_x:_continuous_or_discrete)
+
 - [List of Graphics People in Newsrooms](https://github.com/OpenNewsLabs/news-graphics-team)
 
 - [ggplot extensions](https://exts.ggplot2.tidyverse.org/)
