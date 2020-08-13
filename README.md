@@ -1,6 +1,6 @@
-# Inspiration
+# DataViz tips and tricks
 
-Páginas com gráficos para inspiração
+Gráficos, tipos e estilos
 
 - [R Graph Gallery](https://www.r-graph-gallery.com/index.html)
 
@@ -30,6 +30,8 @@ Páginas com gráficos para inspiração
 
 Temas
 
+- [ggplot Complete themes](https://ggplot2.tidyverse.org/reference/ggtheme.html)
+
 - [{mdthemes}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/)
 
 - [Components Themes GGplot](https://ggplot2.tidyverse.org/reference/theme.html)
@@ -49,3 +51,7 @@ Cores
 - [colorhexa](https://www.colorhexa.com/)
 
 - [https://clrs.cc/](https://clrs.cc/)
+
+Outros
+
+- [8 Tips for Better Data Visualization](https://towardsdatascience.com/8-tips-for-better-data-visualization-2f7118e8a9f4)
