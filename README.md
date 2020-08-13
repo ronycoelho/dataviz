@@ -1,4 +1,4 @@
-# DataViz tips and tricks
+# Tips and tricks
 
 Gráficos, tipos e estilos
 
