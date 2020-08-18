@@ -32,7 +32,7 @@ Temas
 
 - [ggplot Complete themes](https://ggplot2.tidyverse.org/reference/ggtheme.html)
 
-- [{mdthemes}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/)
+- [{mdthemes}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/); [See also](https://rpubs.com/r_rabbit/themes_)
 
 - [Components Themes GGplot](https://ggplot2.tidyverse.org/reference/theme.html)
 
