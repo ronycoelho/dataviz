@@ -53,5 +53,6 @@ Cores
 - [https://clrs.cc/](https://clrs.cc/)
 
 Outros
+- [Fonts](https://ronycoelho.github.io/ippc/fonts.html)
 
 - [8 Tips for Better Data Visualization](https://towardsdatascience.com/8-tips-for-better-data-visualization-2f7118e8a9f4)
