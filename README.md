@@ -48,6 +48,8 @@ Cores
 
 - [COLORBREWER 2.0](https://colorbrewer2.org/#type=diverging&scheme=BrBG&n=3)
 
+-[coolors.co](https://coolors.co/palettes/trending)
+
 - [colorhexa](https://www.colorhexa.com/)
 
 - [https://clrs.cc/](https://clrs.cc/)
