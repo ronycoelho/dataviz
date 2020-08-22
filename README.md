@@ -12,6 +12,8 @@ Gráficos, tipos e estilos
 
 - [Cookbook for R Graphs](http://www.cookbook-r.com/Graphs/)
 
+- [Data Visualization with R](https://rkabacoff.github.io/datavis/)
+
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
 - [STHDA: Be Awesome in ggplot2](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization)
@@ -48,7 +50,7 @@ Cores
 
 - [COLORBREWER 2.0](https://colorbrewer2.org/#type=diverging&scheme=BrBG&n=3)
 
--[coolors.co](https://coolors.co/palettes/trending)
+- [coolors.co](https://coolors.co/palettes/trending)
 
 - [colorhexa](https://www.colorhexa.com/)
 
@@ -56,5 +58,7 @@ Cores
 
 Outros
 - [Fonts](https://ronycoelho.github.io/ippc/fonts.html)
+
+- [Plot Scaling](https://www.tidyverse.org/blog/2020/08/taking-control-of-plot-scaling/)
 
 - [8 Tips for Better Data Visualization](https://towardsdatascience.com/8-tips-for-better-data-visualization-2f7118e8a9f4)
