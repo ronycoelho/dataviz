@@ -30,6 +30,8 @@ Gráficos, tipos e estilos
 
 - [Drawing Anything with ggplot2](https://github.com/thomasp85/ggplot2_workshop)
 
+- [#TidyTuesday Project - hastag on Twitter](https://twitter.com/search?q=%23TidyTuesday&src=typeahead_click)
+
 Temas
 
 - [ggplot Complete themes](https://ggplot2.tidyverse.org/reference/ggtheme.html)
