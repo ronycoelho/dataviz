@@ -60,7 +60,7 @@ Cores
 
 - [How to pick more beautiful colors by Lisa Charlotte Rost](https://blog.datawrapper.de/beautifulcolors/)
 
-- function to see colors and palettes: [scales::show_col()](https://scales.r-lib.org/reference/show_col.html)
+- functions to see colors and palettes: [`scales::show_col()`](https://scales.r-lib.org/reference/show_col.html); `RColorBrewer::display.brewer.all()`; 
 
 Outros
 - [Fonts](https://ronycoelho.github.io/ippc/fonts.html)
