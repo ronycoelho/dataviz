@@ -6,6 +6,10 @@ Gráficos, tipos e estilos
 
 - [From data to viz](https://www.data-to-viz.com/)
 
+- [datavizproject](https://datavizproject.com/)
+
+- [Visualization Universe](http://visualizationuniverse.com/charts/?sortBy=volume&sortDir=desc)
+
 - [Top 50 ggplot2 Visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
 - [BBC cookbook](https://bbc.github.io/rcookbook/)
@@ -29,6 +33,8 @@ Gráficos, tipos e estilos
 - [ggplot references](https://ggplot2.tidyverse.org/reference/index.html)
 
 - [Drawing Anything with ggplot2](https://github.com/thomasp85/ggplot2_workshop)
+
+- [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 
 - [#TidyTuesday Project - hastag on Twitter](https://twitter.com/search?q=%23TidyTuesday&src=typeahead_click)
 
