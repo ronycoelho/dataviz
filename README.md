@@ -60,6 +60,8 @@ Cores
 
 - [coolors.co](https://coolors.co/palettes/trending)
 
+- [Data color picker](https://learnui.design/tools/data-color-picker.html#palette)
+
 - [colorhexa](https://www.colorhexa.com/)
 
 - [https://clrs.cc/](https://clrs.cc/)
