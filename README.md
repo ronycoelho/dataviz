@@ -38,6 +38,8 @@ Gráficos, tipos e estilos
 
 - [#TidyTuesday Project - hastag on Twitter](https://twitter.com/search?q=%23TidyTuesday&src=typeahead_click)
 
+- [Data Visualization course by Andrew Young School of Policy Studies](https://datavizm20.classes.andrewheiss.com/)
+
 Temas
 
 - [ggplot Complete themes](https://ggplot2.tidyverse.org/reference/ggtheme.html)
