@@ -40,9 +40,9 @@ Sources
 
 - [Data Visualization course by Andrew Young School of Policy Studies](https://datavizm20.classes.andrewheiss.com/)
 
--[Data Viz Bookmarks](https://www.notion.so/Data-Viz-Bookmarks-dc01718020bd4fd6a8a4ca80e6bce933)
+- [Data Viz Bookmarks](https://www.notion.so/Data-Viz-Bookmarks-dc01718020bd4fd6a8a4ca80e6bce933)
 
--[Data Visualisations by Tobias Stalder](https://tobias-stalder.netlify.app/about/)
+- [Data Visualisations by Tobias Stalder](https://tobias-stalder.netlify.app/about/)
 
 
 Temas
