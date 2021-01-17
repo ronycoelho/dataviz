@@ -55,6 +55,8 @@ Temas
 
 - [Legend guide](https://ggplot2.tidyverse.org/reference/guide_legend.html); [See also](https://ggplot2.tidyverse.org/reference/guides.html)
 
+- [ggeasy](https://cran.r-project.org/web/packages/ggeasy/ggeasy.pdf)
+
 Cores 
 
 - [paletteer_gallery](https://github.com/PMassicotte/paletteer_gallery/blob/master/README.md)
