@@ -78,7 +78,7 @@ Cores
 - functions to see colors and palettes: [`scales::show_col()`](https://scales.r-lib.org/reference/show_col.html); `RColorBrewer::display.brewer.all()`; [`colourpicker:::colourPickerAddin()`](https://cran.r-project.org/web/packages/colourpicker/vignettes/colourpicker.html) 
 
 Outros
-- [Fonts](https://ronycoelho.github.io/ippc/fonts.html); see [ggtext](https://wilkelab.org/ggtext/)
+- [Fonts](https://ronycoelho.github.io/ippc/fonts.html); see [ggtext](https://wilkelab.org/ggtext/); also [youtube-r-snippets/ggtext.R](https://github.com/amrrs/youtube-r-snippets/blob/master/ggtext.R)
 
 - [Plot Scaling](https://www.tidyverse.org/blog/2020/08/taking-control-of-plot-scaling/)
 
