@@ -88,3 +88,5 @@ Outros
 - [Plot Scaling](https://www.tidyverse.org/blog/2020/08/taking-control-of-plot-scaling/)
 
 - [8 Tips for Better Data Visualization](https://towardsdatascience.com/8-tips-for-better-data-visualization-2f7118e8a9f4)
+
+- [paulvanderlaken.com](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/#contents)
