@@ -79,6 +79,9 @@ Cores
 
 - functions to see colors and palettes: [`scales::show_col()`](https://scales.r-lib.org/reference/show_col.html); `RColorBrewer::display.brewer.all()`; [`colourpicker:::colourPickerAddin()`](https://cran.r-project.org/web/packages/colourpicker/vignettes/colourpicker.html) 
 
+- [daattali/colourpicker](https://github.com/daattali/colourpicker/)
+
+
 Outros
 - [Fonts](https://ronycoelho.github.io/ippc/fonts.html); see [ggtext](https://wilkelab.org/ggtext/); also [youtube-r-snippets/ggtext.R](https://github.com/amrrs/youtube-r-snippets/blob/master/ggtext.R); also [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html)
 
