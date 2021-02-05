@@ -77,7 +77,7 @@ Cores
 
 - [How to pick more beautiful colors by Lisa Charlotte Rost](https://blog.datawrapper.de/beautifulcolors/)
 
-- functions to see colors and palettes: [`scales::show_col()`](https://scales.r-lib.org/reference/show_col.html); `RColorBrewer::display.brewer.all()`; [`colourpicker:::colourPickerAddin()`](https://cran.r-project.org/web/packages/colourpicker/vignettes/colourpicker.html) 
+- functions to see colors and palettes: [`scales::show_col()`](https://scales.r-lib.org/reference/show_col.html); `RColorBrewer::display.brewer.all()`; [`colourpicker:::colourPickerAddin()`](https://cran.r-project.org/web/packages/colourpicker/vignettes/colourpicker.html); [tmaptools::palette_explorer()]() 
 
 - [daattali/colourpicker](https://github.com/daattali/colourpicker/)
 
