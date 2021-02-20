@@ -34,8 +34,6 @@ Sources
 
 - [Drawing Anything with ggplot2](https://github.com/thomasp85/ggplot2_workshop)
 
-- [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
-
 - [#TidyTuesday Project - hastag on Twitter](https://twitter.com/search?q=%23TidyTuesday&src=typeahead_click)
 
 - [Data Visualization course by Andrew Young School of Policy Studies](https://datavizm20.classes.andrewheiss.com/)
@@ -83,7 +81,9 @@ Cores
 
 Tutorials
 
-- []()
+- [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+
+- [Creating and using custom ggplot2 themes](https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/)
 
 
 Outros
