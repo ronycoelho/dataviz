@@ -85,6 +85,8 @@ Tutorials
 
 - [Creating and using custom ggplot2 themes](https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/)
 
+-[Kieran Healy’s Data Visualization: A practical introduction](https://socviz.co/refineplots.html#refineplots)
+
 
 Outros
 - [Fonts](https://ronycoelho.github.io/ippc/fonts.html); see [ggtext](https://wilkelab.org/ggtext/); also [youtube-r-snippets/ggtext.R](https://github.com/amrrs/youtube-r-snippets/blob/master/ggtext.R); also [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html)
