@@ -4,6 +4,8 @@ Sources
 
 - [R Graph Gallery](https://www.r-graph-gallery.com/index.html)
 
+- [R-Charts - ggplot](https://r-charts.com/es/ggplot2/)
+
 - [From data to viz](https://www.data-to-viz.com/)
 
 - [datavizproject](https://datavizproject.com/)
@@ -56,6 +58,7 @@ Temas
 - [ggeasy](https://cran.r-project.org/web/packages/ggeasy/ggeasy.pdf)
 
 Cores 
+- [R-Charts - ](https://r-charts.com/es/paletas-colores/)
 
 - [paletteer_gallery](https://github.com/PMassicotte/paletteer_gallery/blob/master/README.md)
 
