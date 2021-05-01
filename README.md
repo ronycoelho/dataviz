@@ -44,8 +44,9 @@ Sources
 
 - [Data Visualisations by Tobias Stalder](https://tobias-stalder.netlify.app/about/)
 
-https://yulab-smu.top/pkgdocs/ggimage.html#geom_icon
+- [ggimage](https://yulab-smu.top/pkgdocs/ggimage.html#geom_icon)
 
+- [awesome-r-dataviz](https://github.com/krzjoa/awesome-r-dataviz)
 
 Temas
 
