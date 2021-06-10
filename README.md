@@ -97,6 +97,8 @@ Tutorials
 Outros
 - [Fonts](https://ronycoelho.github.io/ippc/fonts.html); see [ggtext](https://wilkelab.org/ggtext/); also [youtube-r-snippets/ggtext.R](https://github.com/amrrs/youtube-r-snippets/blob/master/ggtext.R); also [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html)
 
+- [windowsFonts function](https://statisticsglobe.com/change-font-of-plot-in-r)
+
 - [Plot Scaling](https://www.tidyverse.org/blog/2020/08/taking-control-of-plot-scaling/)
 
 - [8 Tips for Better Data Visualization](https://towardsdatascience.com/8-tips-for-better-data-visualization-2f7118e8a9f4)
