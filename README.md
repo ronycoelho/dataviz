@@ -95,7 +95,7 @@ Tutorials
 
 
 Outros
-- [Fonts](https://ronycoelho.github.io/ippc/fonts.html); see [ggtext](https://wilkelab.org/ggtext/); also [youtube-r-snippets/ggtext.R](https://github.com/amrrs/youtube-r-snippets/blob/master/ggtext.R); also [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html); https://twitter.com/moriah_taylor58/status/1409709880533950475
+- [Fonts](https://ronycoelho.github.io/ippc/fonts.html); see [ggtext](https://wilkelab.org/ggtext/); also [youtube-r-snippets/ggtext.R](https://github.com/amrrs/youtube-r-snippets/blob/master/ggtext.R); also [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html); https://twitter.com/moriah_taylor58/status/1409709880533950475; also the function windowsFonts() from the base, [see this tutorial](https://statisticsglobe.com/change-font-of-plot-in-r)
 
 - [windowsFonts function](https://statisticsglobe.com/change-font-of-plot-in-r)
 
