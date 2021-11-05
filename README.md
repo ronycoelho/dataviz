@@ -67,6 +67,8 @@ Cores
 
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)
 
+- [Some thoughts about colors: Color spaces](https://clauswilke.com/art/post/colors-color-spaces)
+
 - [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
 
 - [COLORBREWER 2.0](https://colorbrewer2.org/#type=diverging&scheme=BrBG&n=3)
