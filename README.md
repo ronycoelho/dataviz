@@ -48,6 +48,9 @@ Sources
 
 - [awesome-r-dataviz](https://github.com/krzjoa/awesome-r-dataviz)
 
+- [Data visualisation using R, for researchers who don’t use R](https://psyteachr.github.io/introdataviz/additional-customisation-options.html)
+ 
+
 Temas
 
 - [ggplot Complete themes](https://ggplot2.tidyverse.org/reference/ggtheme.html)
