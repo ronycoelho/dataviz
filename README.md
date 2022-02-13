@@ -111,3 +111,6 @@ Outros
 - [paulvanderlaken.com](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/#contents)
 
 - [A complete guide to scales](https://ggplot2tor.com/scales)
+
+-------------------------------------------
+- [Inset graphs within map in R](https://milospopovic.net/inset-graph-within-map/)
