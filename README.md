@@ -104,14 +104,19 @@ Fonts and text
 
 - [windowsFonts function](https://statisticsglobe.com/change-font-of-plot-in-r)
 
+
+Scales
 - [Plot Scaling](https://www.tidyverse.org/blog/2020/08/taking-control-of-plot-scaling/)
 
-- [8 Tips for Better Data Visualization](https://towardsdatascience.com/8-tips-for-better-data-visualization-2f7118e8a9f4)
-
-- [paulvanderlaken.com](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/#contents)
 
 - [A complete guide to scales](https://ggplot2tor.com/scales)
 
 -------------------------------------------
 Others
+
 - [Inset graphs within map in R](https://milospopovic.net/inset-graph-within-map/)
+
+- [8 Tips for Better Data Visualization](https://towardsdatascience.com/8-tips-for-better-data-visualization-2f7118e8a9f4)
+
+- [paulvanderlaken.com](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/#contents)
+
