@@ -51,7 +51,7 @@ Sources
 - [Data visualisation using R, for researchers who don’t use R](https://psyteachr.github.io/introdataviz/additional-customisation-options.html)
  
 
-Temas
+Themes
 
 - [ggplot Complete themes](https://ggplot2.tidyverse.org/reference/ggtheme.html)
 
@@ -63,7 +63,7 @@ Temas
 
 - [ggeasy](https://cran.r-project.org/web/packages/ggeasy/ggeasy.pdf)
 
-Cores 
+Colors
 - [R-Charts - ](https://r-charts.com/es/paletas-colores/)
 
 - [paletteer_gallery](https://github.com/PMassicotte/paletteer_gallery/blob/master/README.md)
@@ -99,7 +99,7 @@ Tutorials
 -[Kieran Healy’s Data Visualization: A practical introduction](https://socviz.co/refineplots.html#refineplots)
 
 
-Outros
+Fonts and text
 - [Fonts](https://ronycoelho.github.io/ippc/fonts.html); see [ggtext](https://wilkelab.org/ggtext/); also [youtube-r-snippets/ggtext.R](https://github.com/amrrs/youtube-r-snippets/blob/master/ggtext.R); also [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html); https://twitter.com/moriah_taylor58/status/1409709880533950475; also the function windowsFonts() from the base, [see this tutorial](https://statisticsglobe.com/change-font-of-plot-in-r)
 
 - [windowsFonts function](https://statisticsglobe.com/change-font-of-plot-in-r)
@@ -113,4 +113,5 @@ Outros
 - [A complete guide to scales](https://ggplot2tor.com/scales)
 
 -------------------------------------------
+Others
 - [Inset graphs within map in R](https://milospopovic.net/inset-graph-within-map/)
