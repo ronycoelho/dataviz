@@ -63,6 +63,10 @@ Themes
 
 - [ggeasy](https://cran.r-project.org/web/packages/ggeasy/ggeasy.pdf)
 
+- [ggplot_theme_system_cheatsheet.pdf](https://github.com/claragranell/ggplot2/blob/main/ggplot_theme_system_cheatsheet.pdf)
+
+
+
 Colors
 - [R-Charts - ](https://r-charts.com/es/paletas-colores/)
 
