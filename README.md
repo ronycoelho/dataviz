@@ -65,6 +65,8 @@ Themes
 
 - [ggplot_theme_system_cheatsheet.pdf](https://github.com/claragranell/ggplot2/blob/main/ggplot_theme_system_cheatsheet.pdf)
 
+- [Fundamentals of R Graphics](https://www.youtube.com/watch?v=a4sASSIF4aM&t=5s&ab_channel=JoeGuinness)
+
 
 
 Colors
