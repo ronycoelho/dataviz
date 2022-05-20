@@ -126,3 +126,6 @@ Others
 
 - [paulvanderlaken.com](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/#contents)
 
+------
+see: https://mode.com/blog/r-data-visualization-packages/
+
