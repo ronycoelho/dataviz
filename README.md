@@ -50,6 +50,7 @@ Sources
 
 - [Data visualisation using R, for researchers who don’t use R](https://psyteachr.github.io/introdataviz/additional-customisation-options.html)
  
+- [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2)
 
 Themes
 
